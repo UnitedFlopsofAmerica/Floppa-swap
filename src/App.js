@@ -118,7 +118,7 @@ function App() {
       <div className="appBody">
         <div className="swapContainer">
           <div className="swapHeader">
-            <span className="swapText">Swap 🚧underconstruction🚧</span>
+            <span className="swapText">Swap (underconstruction)</span>
             <span className="gearContainer" onClick={() => setShowModal(true)}>
               <GearFill />
             </span>
