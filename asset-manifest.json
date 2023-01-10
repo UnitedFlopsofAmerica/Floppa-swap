@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foog-swap/static/css/main.8ace711e.css",
+    "main.js": "/foog-swap/static/js/main.ab103407.js",
+    "index.html": "/foog-swap/index.html",
+    "main.8ace711e.css.map": "/foog-swap/static/css/main.8ace711e.css.map",
+    "main.ab103407.js.map": "/foog-swap/static/js/main.ab103407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ace711e.css",
+    "static/js/main.ab103407.js"
+  ]
+}
