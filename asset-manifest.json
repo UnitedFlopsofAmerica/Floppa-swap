@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/foog-swap/static/css/main.8ace711e.css",
-    "main.js": "/foog-swap/static/js/main.ab103407.js",
+    "main.css": "/foog-swap/static/css/main.49ca67bf.css",
+    "main.js": "/foog-swap/static/js/main.20440f3e.js",
+    "static/media/k3gpfowv6q7a13.png": "/foog-swap/static/media/k3gpfowv6q7a13.e3f11f8c08be39dae958.png",
     "index.html": "/foog-swap/index.html",
-    "main.8ace711e.css.map": "/foog-swap/static/css/main.8ace711e.css.map",
-    "main.ab103407.js.map": "/foog-swap/static/js/main.ab103407.js.map"
+    "main.49ca67bf.css.map": "/foog-swap/static/css/main.49ca67bf.css.map",
+    "main.20440f3e.js.map": "/foog-swap/static/js/main.20440f3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ace711e.css",
-    "static/js/main.ab103407.js"
+    "static/css/main.49ca67bf.css",
+    "static/js/main.20440f3e.js"
   ]
 }
